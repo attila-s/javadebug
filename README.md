@@ -7,5 +7,6 @@ $ jdb -attach localhost:15000
 stop in org.apache.oozie.service.ShareLibService.init
 cont
 trace go methods <THREAD ID>
+cont
 ```
  
